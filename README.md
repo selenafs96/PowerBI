@@ -9,9 +9,10 @@ Tareas realizadas:
   - Diseño del cuadro de mandos
   - Uso de botones para el cambio modo claro/modo oscuro
 <img width="1342" height="702" alt="image" src="https://github.com/user-attachments/assets/961eb663-4e5b-4ff6-93b8-86bbfd5bfb7d" />
-<img width="1342" height="698" alt="image" src="https://github.com/user-attachments/assets/09b83b3d-7dbe-43f2-84fd-eedb380e88cd" />
+<img width="1342" height="702" alt="image" src="https://github.com/user-attachments/assets/4812e3d7-dde7-416a-85cf-a1f03027c7f2" />
 <img width="1335" height="702" alt="image" src="https://github.com/user-attachments/assets/3befd117-6286-44b9-ac9c-6dbccda113b4" />
-<img width="1336" height="693" alt="image" src="https://github.com/user-attachments/assets/d9387540-e13c-45b9-a817-9797b007cfe6" />
+<img width="1395" height="725" alt="image" src="https://github.com/user-attachments/assets/c1c87dc0-2822-4974-9e3c-82fdf694532b" />
+
 
 
 
