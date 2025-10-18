@@ -2,7 +2,7 @@
 PowerBI Projects
 Informe de Marketing con datos de 2021-2024 de Google Ads.
 Tareas realizadas:
-  - Limpieza y transformación de datos
+  - Carga, limpieza y transformación de datos
   - Uso de lenguaje DAX para el cálculo de métricas
   - Implementación de modelo de datos en estrella para el análisis
   - Desarrollo de diferentes visualizaciones para comprender los datos y selección de filtros
